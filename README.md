@@ -1,8 +1,12 @@
+
+
 ### Olá! Eu sou o Luiz Paulo ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-paulo-liberatoscioli-93192b1a0/)
 
 ![LuizPaulo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizLiberatoscioli&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLiberatoscioli)](https://github.com/LuizLiberatoscioli/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia 
 <div style="display: inline_block"></br>
