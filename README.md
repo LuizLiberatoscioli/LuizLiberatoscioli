@@ -1,14 +1,14 @@
 
 
-### Olá! Eu sou o Luiz Paulo ✋
+### Hello! I'm Luiz Paulo ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/luiz-paulo-liberatoscioli-de-faria/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-paulo-liberatoscioli-de-faria/)
 
 ![LuizPaulo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizLiberatoscioli&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizLiberatoscioli)](https://github.com/LuizLiberatoscioli/github-readme-stats)
 
-### Tecnologias que eu uso no meu dia 
+### Technologies I use in my day
 <div style="display: inline_block"></br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="ccs3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,4 +22,4 @@
     <img alt="sqllite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e conhecimento.
+Passionate about technology and knowledge.
