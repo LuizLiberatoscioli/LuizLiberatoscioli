@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Luiz Paulo ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-paulo-liberatoscioli/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/luiz-paulo-liberatoscioli/](https://www.linkedin.com/in/luiz-paulo-liberatoscioli-de-faria/))
 
 ![LuizPaulo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizLiberatoscioli&show_icons=true&theme=dracula)
 
